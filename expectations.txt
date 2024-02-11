@@ -2,6 +2,10 @@ Expectation 1:
 I expect to gain a deep understanding of the theoretical foundations that drive the web programming process.
 
 Agreements:
+Jehmuel agrees 
+
+I think that sir was quite helpful when teaching us in the first lab class so you will likely learn a lot
+in this course
 ~END~
 
 
@@ -10,6 +14,10 @@ Expectation 2:
 I expect to gain exposure to the different web technologies available for deployung and maintaing web applications to kick start my lifelong develompent journey.
 
 Agreements:
+Jehmuel agrees
+
+I am also quite excited with this when the course guide was being explained, intimidated, but a bit
+excited.
 ~END~
 
 
@@ -18,4 +26,8 @@ Expectation 3:
 I expect to have fun in my journey learning web programming.
 
 Agreements:
+Jehmuel agrees
+
+Upon doing this activity, I find it enjoyable when I manage to run the program after a lot of errors,
+thus I understand the feeling a bit. 
 ~END~
